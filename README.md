@@ -1,4 +1,4 @@
-# Jovens Tegranos Exercicio 03
+# Jovens Tegranos Exercício 03
 
 # 🏁 Tópicos
 
@@ -21,28 +21,25 @@
 
 # ✅ Título e Descrição 👌
 
-### Título: Exercicio 03
+### Exercicio 03
 
- Descrição: Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas, com uma casa decimal. 
+#### Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas, com uma casa decimal. 
 
 # ✅ Status do Projeto 👌
 
-🚧 Projeto 🚀 Concluído com Sucesso!!! 👌 🚧
+### 🚧 Projeto 🚀 **Concluído com Sucesso!!!** 👌 🚧
 
 # ✅ Funcionalidades 👌
 
-Funcionalidades da aplicação:
-
-- [x] Ler o nome de duas pessoas
-- [x] a idade de duas pessoas
-- [x] mostrar uma mensagem com os nomes e a idade média entre essas pessoas
+### - [x] Ler o nome de duas pessoas
+### - [x] a idade de duas pessoas
+### - [x] mostrar uma mensagem com os nomes e a idade média entre essas pessoas
 
 # ✅ Demonstração da aplicação 👌
 
-GitHub
-AlineAlmeida85
+### GitHub AlineAlmeida85
 
-### Link: https://alinealmeida85.github.io/Jovens-Tegranos-Exercicio03/
+### Link: [Projeto](https://alinealmeida85.github.io/Jovens-Tegranos-Exercicio03/)
 
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="banner.png" style/>
